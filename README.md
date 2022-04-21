@@ -31,3 +31,9 @@ Learn to use tools from the Bioconductor project to perform analysis of genomic 
 6) Statistics for Genomic Data Science 
 
 An introduction to the statistics behind the most popular genomic data science projects.
+
+# Programming Languages + Packages Used in the Speicalization Modules for Assignments, Quizzes and Exams 
+
+Programming Language: Python, R, Bash (command line) 
+
+Packages Used: 
