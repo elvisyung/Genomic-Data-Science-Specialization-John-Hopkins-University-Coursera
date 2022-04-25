@@ -36,4 +36,4 @@ An introduction to the statistics behind the most popular genomic data science p
 
 Programming Language: Python, R, Bash (command line) 
 
-Packages Used: 
+Packages Used in Python and R: Matplotlib, bisect, itertools, operator, IRanges, GenomeInfoDb, GenomicRanges, BSgenomes, Biostrings, biomaRt, Shortread, limma, dbplyr, BiocFileCache, rtracklayer, AnnotationHub, Rsamtools, Biobase, DESeq2, devtools, edge, snpStats, broom, ballgown, genefilter and goseq. 
